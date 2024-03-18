@@ -1,4 +1,3 @@
-# simulated-network-topology
 # FIB (Forward Information Base)
 
 Created by: Raihan Islam <br>
